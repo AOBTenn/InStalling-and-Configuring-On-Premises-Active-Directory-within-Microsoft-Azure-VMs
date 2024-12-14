@@ -1,4 +1,4 @@
-# <p align="center">Installing-and-Configuring-On-premises-Active-Directory-within-Azure-VMs
+# <p align="center">Installing and Configuring On Premises Active Directory within Microsoft Azure VM
 ![image](https://github.com/user-attachments/assets/8d4e5e12-f50f-4daa-82c4-b80d7ad043dc)
 
 
