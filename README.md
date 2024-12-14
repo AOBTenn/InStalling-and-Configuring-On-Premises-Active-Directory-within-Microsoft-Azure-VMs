@@ -2,13 +2,14 @@
 ![image](https://github.com/user-attachments/assets/8d4e5e12-f50f-4daa-82c4-b80d7ad043dc)
 
 
-This is a simple outline of the process to create a new repository in GitHub after creating a Github account.<br />
+In this third and final project, Active Directory will be installed and configured to simulated real world user conditions within a working environment using previously created virtual machines in projects part-1 https://github.com/AOBTenn/Preparing-Active-Directory-Environment-within-Azure-VMs-Part1.git  and part-2 https://github.com/AOBTenn/Preparing-Active-Directory-Environment-within-Azure-VMs-Part2.git .<br />
 
 
 <h2>Environments and Technologies Used</h2>
 
 - Desktop Pc
-- Internet 
+- Internet
+- Microsoft Azure VMs 
 
 <h2>Operating Systems Used </h2>
 
@@ -17,9 +18,8 @@ This is a simple outline of the process to create a new repository in GitHub aft
 <h2>List of Prerequisites</h2>
 
 - Laptop or Desktop Pc                                                                                                                                 
-- Operating system on said laptop or desktop
-- Wifi Access
-- GitHub Account
+- Internet Access
+- Microsoft Azure Account
 
 <h2>Procedure Steps</h2>
 
