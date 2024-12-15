@@ -23,5 +23,14 @@ In this third and final project, Active Directory will be installed and configur
 
 <h2>Procedure Steps</h2>
 
+First step is to remote desktop login to the DC-1 server, then click on the start button and click on server manager from the menu pop up. On the server manager dashboard go to "Add Roles and Features," then click next three times to select the sever roles option sub-window. In this sub window click "Active Directory Domain Services," and then the add feature button.
 
+
+
+
+
+
+
+
+```````````````````````````````````````````````````````````````````````````````````````````````````````````````````````````````````````````````````````````````````````````````````1````````````````````````
 
