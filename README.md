@@ -2,7 +2,7 @@
 ![image](https://github.com/user-attachments/assets/e4f41676-9505-49cf-82a1-c1ad2d5cf390)
 
 
-In this third and final project, Active Directory will be installed and configured to simulated real world user conditions within a working environment using previously created virtual machines in projects part-1 https://github.com/AOBTenn/Preparing-Active-Directory-Environment-within-Azure-VMs-Part1.git  and part-2 https://github.com/AOBTenn/Preparing-Active-Directory-Environment-within-Azure-VMs-Part2.git .<br />
+In this third part of the project, Active Directory will be installed and configured to simulated real world user conditions within a working environment using previously created virtual machines in projects part-1 https://github.com/AOBTenn/Preparing-Active-Directory-Environment-within-Azure-VMs-Part1.git  and part-2 https://github.com/AOBTenn/Preparing-Active-Directory-Environment-within-Azure-VMs-Part2.git .<br />
 
 
 <h2>Environments and Technologies Used</h2>
@@ -79,7 +79,8 @@ Now as Active Diredctory is being installed, go back to Server Manager Dashboard
 ![image](https://github.com/user-attachments/assets/1fd2144e-4f19-46dd-8b39-72b76fb47046)
 <p>Image 13
 </p>
-
+<p>
+</p>
 
 
 
