@@ -44,8 +44,16 @@ First step is to install Active Directory. This is done by remote desktop logini
 
 Now as Active Diredctory is being installed, go back to Server Manager Dashboard and in the top right corner the window is a flag and a caution  simbol. Click on it and in the drop down menu click on "Promote this sever to domain controller" words  to be take n to  another  window. In this new window "Deployment Configuration," pick add a new forest and for the purpose type whatever domain you want in the textbox and click next. In the next window you type the password of you choosing and then press next, and in the next window "DNS Options" make sure that "Create DNS Delegation" is unchecked. Lastly you click next to cycle to the install button to click on it. The server will atomatically restart and you will have to Remote Destop login back into DC-1, first you needing to select more options, then enter the name of the forset you picked followed by a backslash and then the original username and then the password. 
 
+![image](https://github.com/user-attachments/assets/370321dd-1b99-411e-b572-6a338c15806c)
+<p>Image 5
+</p>
 
-<p>Image 1
+![image](https://github.com/user-attachments/assets/8a72ba4f-d1ad-48e6-ab42-0e69c90cb757)
+<p>Image 6
+</p>
+
+![image](https://github.com/user-attachments/assets/0da27eb7-dfe0-4cea-93ef-09557cf8261e)
+<p>Image 7
 </p>
 
 (refer to image 3)
