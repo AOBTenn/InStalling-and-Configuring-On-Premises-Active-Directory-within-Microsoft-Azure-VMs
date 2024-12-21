@@ -69,9 +69,13 @@ Now as Active Diredctory is being installed, go back to Server Manager Dashboard
 <p>Image 10
 </p>
 
+![image](https://github.com/user-attachments/assets/e4b4cd22-c26d-4215-b073-d3048ec58e42)
+<p>Image 11
+</p>
 
-
-
+![image](https://github.com/user-attachments/assets/264cb0cd-abf7-4e12-8ca0-ffc10c11c394)
+<p>Image 12
+</p>
 
 
 
