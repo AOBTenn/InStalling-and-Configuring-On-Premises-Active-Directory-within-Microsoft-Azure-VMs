@@ -24,12 +24,28 @@ In this third and final project, Active Directory will be installed and configur
 <h2>Procedure Steps</h2>
 
 First step is to install Active Directory. This is done by remote desktop logining into the DC-1 server with the user and password created in project-1 for this virtual machine. Then click on the start button and click on server manager from the menu pop up. On the server manager dashboard go to "Add Roles and Features," then click next three times to get ot the "sever Roles option sub-window. In this sub window click "Active Directory Domain Services," and then the add feature button. Then click the next button four more times to go to the "Confirm Intallation Selections" sub-window, and in this window check the restart box at the top and yes button to confirm before clicking the install botton.
-![image](https://github.com/user-attachments/assets/f96ee540-a3f5-4838-819d-52a921eccd39)
-![image](https://github.com/user-attachments/assets/8535b58b-9377-459c-8399-75cfba35310b)
-![image](https://github.com/user-attachments/assets/4da2dad9-e086-4376-bb25-527d5b85147c)
 
-<p>
+![image](https://github.com/user-attachments/assets/f96ee540-a3f5-4838-819d-52a921eccd39)
+<p>Image 1
 </p>
-<p>
+
+![image](https://github.com/user-attachments/assets/8535b58b-9377-459c-8399-75cfba35310b)
+<p>Image 2
 </p>
+
+![image](https://github.com/user-attachments/assets/0a6446ac-f122-4815-8850-c18033632abf)
+<p>Image 3
+</p>
+
+![image](https://github.com/user-attachments/assets/4da2dad9-e086-4376-bb25-527d5b85147c)
+<p>Image 4
+</p>
+
+
 Now as Active Diredctory is being installed, go back to Server Manager Dashboard and in the top right corner the window is a flag and a caution  simbol. Click on it and in the drop down menu click on "Promote this sever to domain controller" words  to be take n to  another  window. In this new window "Deployment Configuration," pick add a new forest and for the purpose type whatever domain you want in the textbox and click next. In the next window you type the password of you choosing and then press next, and in the next window "DNS Options" make sure that "Create DNS Delegation" is unchecked. Lastly you click next to cycle to the install button to click on it. The server will atomatically restart and you will have to Remote Destop login back into DC-1, first you needing to select more options, then enter the name of the forset you picked followed by a backslash and then the original username and then the password. 
+
+
+<p>Image 1
+</p>
+
+(refer to image 3)
