@@ -24,6 +24,10 @@ In this third and final project, Active Directory will be installed and configur
 <h2>Procedure Steps</h2>
 
 First step is to install Active Directory. This is done by remote desktop logining into the DC-1 server with the user and password created in project-1 for this virtual machine. Then click on the start button and click on server manager from the menu pop up. On the server manager dashboard go to "Add Roles and Features," then click next three times to get ot the "sever Roles option sub-window. In this sub window click "Active Directory Domain Services," and then the add feature button. Then click the next button four more times to go to the "Confirm Intallation Selections" sub-window, and in this window check the restart box at the top and yes button to confirm before clicking the install botton.
+![image](https://github.com/user-attachments/assets/f96ee540-a3f5-4838-819d-52a921eccd39)
+![image](https://github.com/user-attachments/assets/8535b58b-9377-459c-8399-75cfba35310b)
+![image](https://github.com/user-attachments/assets/4da2dad9-e086-4376-bb25-527d5b85147c)
+
 <p>
 </p>
 <p>
