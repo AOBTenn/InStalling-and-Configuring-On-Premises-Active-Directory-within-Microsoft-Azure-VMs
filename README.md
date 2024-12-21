@@ -42,7 +42,7 @@ First step is to install Active Directory. This is done by remote desktop logini
 </p>
 
 
-Now as Active Diredctory is being installed, go back to Server Manager Dashboard. In the top right corner the window is a flag and a caution symbol, click on it and in the drop down menu click on "Promote this sever to domain controller" words (refer to image 3) to be taken to another window. In this "Deployment Configuration" window, pick add a "New Forest" and type whatever domain name you want in the textbox and click next (refer to image 3). In the next window you type the password of you choosing (refer to image 3) and then press next again. In this other "DNS Options" window make sure that "Create DNS Delegation" is unchecked (refer to image 3). Lastly you click next to cycle to the install button to click on it (refer to image 3). The server will atomatically restart (refer to image 3) and you will have to Remote Destop login back into DC-1. This is done by selecting "Show Options" in the bottom left corner of the Remote destop window (refer to image 3), then enter the name of the forset you picked followed by a backslash and then the original username and then the password(refer to image 3). 
+Now as Active Diredctory is being installed, go back to Server Manager Dashboard. In the top right corner the window is a flag and a caution symbol, click on it and in the drop down menu click on "Promote this sever to domain controller" words (refer to image 5) to be taken to another window. In this "Deployment Configuration" window, pick add a "New Forest" and type whatever domain name you want in the textbox and click next (refer to image 6). In the next window you type the password of you choosing (refer to image 7) and then press next again. In this other "DNS Options" window make sure that "Create DNS Delegation" is unchecked (refer to image 8). Lastly you click next to cycle to the install button to click on it (refer to image 9). The server will atomatically restart (refer to image 10) and you will have to Remote Destop login back into DC-1. This is done by selecting "Show Options" in the bottom left corner of the Remote destop window (refer to image 11), then enter the name of the forset you picked followed by a backslash and then the original username in the username bar (refer to image 12), and then the password (refer to image 13). 
 
 ![image](https://github.com/user-attachments/assets/370321dd-1b99-411e-b572-6a338c15806c)
 <p>Image 5
@@ -59,7 +59,6 @@ Now as Active Diredctory is being installed, go back to Server Manager Dashboard
 ![image](https://github.com/user-attachments/assets/9d314823-9ff3-4474-85ef-54f025fbc44e)
 <p>Image 8
 </p>
-
 
 ![image](https://github.com/user-attachments/assets/7dfe46d9-296e-4425-bfa1-803c1ef2d76d)
 <p>Image 9
@@ -84,8 +83,4 @@ Now as Active Diredctory is being installed, go back to Server Manager Dashboard
 
 
 
-<p>Image 1
-</p>
 
-
-(refer to image 3)
